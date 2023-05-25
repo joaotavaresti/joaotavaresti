@@ -9,8 +9,6 @@ I'm always interested in learn and contribute to innovative projects!
 - 📫 How to reach me: joaotavaresti@gmail.com
 
 👥 Connect With Me
-https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbuPJ5bYVQvyRD3wsVa%2BSug%3D%3D
-
 <div>
 <a href="https://www.linkedin.com/in/joao-tavares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
