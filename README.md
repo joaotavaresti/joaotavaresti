@@ -2,10 +2,10 @@
 
 I'm always interested in learning and contributing to innovative projects!
 
-- 🔭 I’m currently working at Unisinos as Professor and at Dell Technologies as an IA/ML Specialist Researcher
-- 🔭 I’m also working at InnovativeLab as Software ML Engineer
-- 👯 I’m looking to collaborate on IA and IoT projects
-- 💬 Ask me about Python, Django, Java, and IA/ML topics
+- 🔭 I’m currently working as Software Engineer and IA/ML Specialist Researcher at Dell Technologies and also as Professor and Researcher at Unisinos
+- 🔭 I have also experience as Assistive Technologist and Rehab Engineer working at InnovativeLab designing and implementing innovative solutions for People with Disabilites
+- 👯 I’m looking to collaborate on fantastic projects regarding Software, IA and IoT for Education, Healthcare or Business
+- 💬 Ask me about Python, Django, Java, Javascript, SQL, NoSQL and IA/ML topics
 - 📫 How to reach me: joaotavaresti@gmail.com
 
 👥 Connect With Me
